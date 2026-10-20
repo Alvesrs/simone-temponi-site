@@ -5,8 +5,6 @@ Conceito demonstrativo não oficial. Visual verde profundo e dourado, layout res
 ## Organização
 
 - `dist/`: arquivos prontos para hospedagem. Edite `dist/index.html` nas próximas alterações.
-- `index.html`: cópia para abrir diretamente no celular.
-- `assets/referencia.jpg`: referência de trabalho; não faz parte da publicação.
 
 ## GitHub + Cloudflare Pages
 
