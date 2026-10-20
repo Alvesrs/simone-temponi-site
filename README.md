@@ -1,32 +1,9 @@
-# Simone Temponi — proposta de site
+# Simone Temponi — proposta premium
 
-Conceito demonstrativo não oficial. Visual verde profundo e dourado, layout responsivo, navegação móvel e atalhos de contato.
+Site estático com foto do site oficial, cursos online e presencial, formulário de encaminhamento para os WhatsApps correspondentes, Instagram e mapa. O formulário não reserva horários e não armazena dados.
 
-## Organização
+Fontes dos contatos e imagem: https://simonetemponi.com/ (consulta em 20/10/2026).
 
-- `dist/`: arquivos prontos para hospedagem. Edite `dist/index.html` nas próximas alterações.
+Publicado em https://simone-temponi-premium.chiccoin65.chatgpt.site com acesso privado para revisão. Publicações nesta hospedagem são feitas pelo Sites; o GitHub guarda uma cópia do código e não publica automaticamente alterações no Sites.
 
-## GitHub + Cloudflare Pages
-
-Crie ou utilize o repositório `simone-temponi-site` no GitHub e envie o conteúdo desta pasta, preservando `dist/`.
-No Cloudflare Pages, importe esse repositório e configure:
-
-| Campo | Valor |
-| --- | --- |
-| Framework | None |
-| Branch de produção | main |
-| Comando de build | exit 0 |
-| Diretório de saída | dist |
-| Diretório raiz | deixe vazio |
-
-Depois da primeira publicação, alterações enviadas para `main` geram uma nova publicação automática. O link real será fornecido pela Cloudflare após o deploy.
-
-Documentação: https://developers.cloudflare.com/pages/get-started/git-integration/
-
-## Revisão antes de apresentar
-
-Confira telefone, endereço, horários e serviços com a proprietária. As fotos são ilustrativas e dependem do Unsplash; fontes dependem do Google Fonts. Substitua por fotos aprovadas para a versão final. O conceito permanece marcado como não oficial e com indexação desativada. Não altere o domínio existente nesta etapa.
-
-## Validação desta versão
-
-Links internos e arquivos locais verificados; scripts passaram pela checagem de sintaxe do Node. Menu corrigido para exibir os links no celular. Conteúdo permanece visível sem JavaScript e sem IntersectionObserver. Navegação por Escape e preferência de movimento reduzido contempladas. Verificação visual no navegador e funcionamento dos serviços externos ainda pendentes.
+Arquivos para hospedagem: dist/. Sem build. Fotos e contatos devem ser aprovados pela proprietária antes de uma versão oficial. Link do curso online preservado como indicado no site de origem; o serviço externo retornou erro durante a consulta.
