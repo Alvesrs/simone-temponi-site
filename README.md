@@ -1,9 +1,5 @@
-# Simone Temponi — proposta premium
+# Simone Temponi — conceito premium
 
-Site estático com foto do site oficial, cursos online e presencial, formulário de encaminhamento para os WhatsApps correspondentes, Instagram e mapa. O formulário não reserva horários e não armazena dados.
+Visual verde profundo e dourado. Imagens editoriais com modelos fictícias geradas por IA; não são clientes ou resultados do espaço. Foto antiga de Simone removida. Formulário de interesse encaminha atendimento e cursos presenciais para contatos distintos do WhatsApp; não reserva horários nem armazena dados. Curso online, Instagram e mapa preservados.
 
-Fontes dos contatos e imagem: https://simonetemponi.com/ (consulta em 20/10/2026).
-
-Publicado em https://simone-temponi-premium.chiccoin65.chatgpt.site com acesso privado para revisão. Publicações nesta hospedagem são feitas pelo Sites; o GitHub guarda uma cópia do código e não publica automaticamente alterações no Sites.
-
-Arquivos para hospedagem: dist/. Sem build. Fotos e contatos devem ser aprovados pela proprietária antes de uma versão oficial. Link do curso online preservado como indicado no site de origem; o serviço externo retornou erro durante a consulta.
+Publicação: https://simone-temponi-premium.chiccoin65.chatgpt.site (acesso privado para revisão). GitHub contém cópia do código, sem publicação automática no Sites. Arquivos públicos em dist/. Sem build.

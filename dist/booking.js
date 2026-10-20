@@ -1,0 +1,4 @@
+function buildContactUrl(interest,name){const course=interest==='presencial';const subject=course?'informações sobre o curso presencial':interest==='visagismo'?'saber mais sobre o atendimento de visagismo':'agendar um atendimento';const cleanName=name.trim().slice(0,70);const text=`Olá! ${cleanName?'Meu nome é '+cleanName+'. ':''}Gostaria de ${subject}.`;return 'https://api.whatsapp.com/send?phone='+(course?'5527999719694':'5527999719690')+'&text='+encodeURIComponent(text);}
+document.querySelector('#booking-form').addEventListener('submit',e=>{e.preventDefault();const interest=document.querySelector('#interest').value;const name=document.querySelector('#name').value;window.location.assign(buildContactUrl(interest,name));});
+
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav.classList.contains('is-open')){nav.classList.remove('is-open');toggle.setAttribute('aria-expanded','false');toggle.textContent='MENU ☰';toggle.focus();}});
